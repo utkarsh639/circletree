@@ -1,0 +1,42 @@
+.tree{
+    width:0px;
+    height:0px;
+
+    border-width:100px;
+    border-style: solid;
+    border-top-color:transparent;
+    border-bottom-color:rgb(235, 116, 18);
+    border-left-color:transparent;
+    border-right-color:transparent;
+    margin-left: 600px;
+    position: absolute;
+}
+.t1{
+    width:100px;
+    height:0px;
+
+    border-width:100px;
+    border-style: solid;
+    border-top-color:transparent;
+    border-bottom-color:rgb(128, 0, 17);
+    border-left-color:transparent;
+    border-right-color:transparent;
+    margin-top: 100px;
+    margin-left:550px;
+    position: absolute;
+}
+.t2{
+    width:200px;
+    height:0px;
+
+    border-width:100px;
+    border-style: solid;
+    border-top-color:transparent;
+    border-bottom-color:rgb(39, 35, 35);
+    border-left-color:transparent;
+    border-right-color:transparent;
+    margin-top: 200px;
+    margin-bottom:40px;
+    margin-left: 500px;
+    position: absolute;
+}
